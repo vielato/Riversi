@@ -1,5 +1,5 @@
 # Riversi
-Java project of implementing the game of Riversi. In this game, you can either play against a computer player or watch two computers playing against each another. 
+Java project of implementing the game of [Riversi](https://en.wikipedia.org/wiki/Reversi). In this game, you can either play against a computer player or watch two computers playing against each another. 
 We use the MINIMAX algorithm with ab prunning to predict the moves of the computer player and we let the user decide his next move, providing as a help, a list of the possible valid ones. 
 
 ## Built with 
